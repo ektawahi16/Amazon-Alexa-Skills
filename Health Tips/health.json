@@ -1,0 +1,33 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "health tips",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "healthtips",
+                    "slots": [],
+                    "samples": [
+                        "give me some health tips",
+                        "some health tips",
+                        "health is fun",
+                        "health is wealth",
+                        "healthy living"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
