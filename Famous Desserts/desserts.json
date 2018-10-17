@@ -1,0 +1,38 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "dessert store",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "dessertstore",
+                    "slots": [],
+                    "samples": [
+                        "dessert store",
+                        "famous indian desserts",
+                        "give me some famous indian desserts",
+                        "sweets",
+                        "mithai and dessert",
+                        "tell me some famous dessert"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
