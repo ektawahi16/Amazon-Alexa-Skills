@@ -84,7 +84,7 @@ const HELP_REPROMPT = 'dessert store?';
 const STOP_MESSAGE = 'Goodbye!';
 
 const data = [
-'Andhra Pradesh – Qubani ka Meetha',
+'andhra pradesh – Qubani ka Meetha',
 'Assam – Narikol or Ladoo',
 'Bihar – Khaja',
 'Goa – Bebinca',
